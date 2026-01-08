@@ -83,8 +83,8 @@ operating systems require it for audio playback routing.
 Optional integrations (such as **Last.fm scrobbling** or connections to
 your own media server) may involve third-party services.
 
--   Yuzic does **not** process or store personal data for these services
--   Any data shared is limited to what is required for the integration
+-   Yuzic **only** stores the required information on your device, no where else
+-   Any data stored is limited to what is required for the integration
     to function
 -   You should review the privacy policies of any third-party services
     you choose to connect

@@ -25,6 +25,7 @@ The entire library fetching system has been reworked to be cleaner, and work wit
 - Skeleton loading
 - Read more on Last.fm via artist screen
 - Get started screen shows up once
+- Select from multiple AI Providers
 - Opt-in analytics
 - Type-safe updates
 
