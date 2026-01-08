@@ -18,7 +18,7 @@ Yuzic is designed to function **without collecting personal data**. Any
 optional data collection is strictly **opt-in** and can be disabled at
 any time.
 
-`<br>`{=html}
+<br>
 
 ## 1.0 Information We Collect
 
@@ -33,7 +33,7 @@ information.
 -   No data is routed through or stored on any developer-controlled
     servers.
 
-`<br>`{=html}
+<br>
 
 ### 1.2 Optional Analytics (Opt-In)
 
@@ -63,7 +63,7 @@ Yuzic does **not** collect:
 You can disable analytics at any time in the app's settings. Disabling
 analytics immediately stops data collection.
 
-`<br>`{=html}
+<br>
 
 ## 2.0 Audio Permissions
 
@@ -76,7 +76,7 @@ operating systems require it for audio playback routing.
     music playback
 -   No voice input or audio capture features are present
 
-`<br>`{=html}
+<br>
 
 ## 3.0 Third-Party Integrations
 
@@ -92,7 +92,7 @@ your own media server) may involve third-party services.
 If analytics are enabled, Yuzic uses a third-party analytics provider
 solely for **anonymous usage analytics**.
 
-`<br>`{=html}
+<br>
 
 ## 4.0 Data Security
 
@@ -100,7 +100,7 @@ solely for **anonymous usage analytics**.
 -   Any optional analytics data is transmitted securely
 -   All server connections use **secure HTTPS protocols** when available
 
-`<br>`{=html}
+<br>
 
 ## 5.0 Your Rights and Choices
 
@@ -113,12 +113,4 @@ You are always in control of your data:
 3.  The app will continue to function normally for music playback even
     if analytics are disabled
 
-`<br>`{=html}
-
-## 6.0 Contact
-
-If you have questions or concerns about this Privacy Policy, please
-contact:
-
-**Developer:** Zack Starnes\
-**Email:** eftpmc1@gmail.com
+<br>
