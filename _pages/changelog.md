@@ -16,7 +16,7 @@ The entire library fetching system has been reworked to be cleaner, and work wit
 - **Jellyfin Support**
 - Reworked library fetching, the app now defines adapters for Navidrome and Jellyfin that it can use throughout the app.
 - Touched up screens throughout.
-- Images now define what quality they should be. No more fetching a big ass image for a smaller image in the app.
+- Images now define what quality they should be. No more fetching a big image for a smaller image in the app.
 - Tanstack Query is now used by components, directly talking to the api adapter.
 - Query lets the app know when to refetch, and can persist data.
 - A **New** server screen lets users easily switch between Navidrome and Jellyfin.

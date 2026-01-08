@@ -31,7 +31,7 @@ features                                  :
 
   - title                                 : Unified Music Library Across Servers
     description                           : Yuzic connects to Navidrome, Jellyfin, and other subsonic servers, merging albums, artists, playlists, and tracks into a single library.
-    fontawesome_icon_name                 : folder-tree
+    fontawesome_icon_name                 : desktop
     
   - title                                 : Offline & Download Support
     description                           : Easily download albums and playlists for later.
