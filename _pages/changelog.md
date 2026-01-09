@@ -34,3 +34,13 @@ The entire library fetching system has been reworked to be cleaner, and work wit
 - Glitchy queue after dragging
 - Jellyfin duration bug
 - Confusing lidarr plugin toggle
+
+<br>
+
+### **Version 1.1.1**
+Light mode fully complete, touchups and bug fixes.
+
+#### What's New
+- Skeleton loading on homepage
+- Lightmode
+- Improved lidarr (if the program itself would work)
