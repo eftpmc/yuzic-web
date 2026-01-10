@@ -44,3 +44,17 @@ Light mode fully complete, touchups and bug fixes.
 - Skeleton loading on homepage
 - Lightmode
 - Improved lidarr (if the program itself would work)
+
+### **Version 1.1.2**
+Small improvements and bug fixes
+
+#### What's New
+- Borders on headers
+- Lightmode touchups, playlist list
+- Discord about button
+- Stats make more sense
+
+#### Bug Fixes
+- Local addresses on android?
+- Seeking on android?
+
