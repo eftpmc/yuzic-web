@@ -58,3 +58,15 @@ Small improvements and bug fixes
 - Local addresses on android?
 - Seeking on android?
 
+### **Version 1.1.3**
+Upgrading and stabalizing dependencies.
+
+#### What's New
+- Expo SDK 53
+- React 9
+- Replaced react-native-ios-context-menu with @react-native-menu/menu
+
+#### Bug Fixes
+- Android insets on playing screen
+- Android local addresses?
+
