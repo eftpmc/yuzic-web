@@ -70,3 +70,17 @@ Upgrading and stabalizing dependencies.
 - Android insets on playing screen
 - Android local addresses?
 
+### **Version 1.1.4**
+
+#### What's New
+- Lyrics
+- Light and darkmode selector
+- New context menus
+- New context options
+- New info modal for items
+- Internal only toggle
+
+#### Bug Fixes
+- IOS connection issue
+- Android playing screen
+- Android glass fix
