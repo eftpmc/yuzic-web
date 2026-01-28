@@ -84,3 +84,34 @@ Upgrading and stabalizing dependencies.
 - IOS connection issue
 - Android playing screen
 - Android glass fix
+
+### **Version 1.1.5**
+
+#### What's New
+- Discovery page
+- Listenbrainz & MusicBrainz instead of Last.fm
+- Accurate playcounts
+- External types
+- Placeholder images for every image
+- Consistent bottom sheets
+- Scrobbling
+- Removed AI Button
+- Action buttons
+
+#### Bug Fixes
+- Toasts showing below playing screen bottom sheet
+- Server URL overflows
+- Jellyfin seeking?
+- Tapping connectivity errors
+
+### **Version 1.1.6**
+
+#### What's New
+- External album and artist pages
+- Three categories to browse from
+- View all bottom sheet
+- View external album from library album
+- Octo-fiesta support
+
+#### Bug Fixes
+- Scrobbles are legit
