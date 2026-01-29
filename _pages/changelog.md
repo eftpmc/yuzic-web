@@ -115,3 +115,20 @@ Upgrading and stabalizing dependencies.
 
 #### Bug Fixes
 - Scrobbles are legit
+
+### **Version 1.1.7**
+
+#### Bug Fixes
+- Playing screen lag ( still exists )
+- Media image loading fix ( still exists? )
+
+### **Version 1.1.8**
+
+#### What's New
+- Slskd downloader support
+- Bottom sheets fully replacing other menus
+- Queue touchups
+- Explore rework ( more to come )
+
+#### Bug Fixes
+- Skipping
