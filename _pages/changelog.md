@@ -132,3 +132,28 @@ Upgrading and stabalizing dependencies.
 
 #### Bug Fixes
 - Skipping
+
+### **Version 1.1.9**
+
+#### What's New
+- Recently played
+- Playing screen remodel
+- Search now includes artists, albums, and playlists
+- Discovery section remodel
+- Play similar music queues via the Dial on the Discovery page
+- Add to playlist action button
+- Artist bottom sheet
+
+#### Bug Fixes
+- Smoother loading
+
+### **Version 1.1.10**
+
+#### Bug Fixes
+- Recently played music and playcounts relying on a ListenBrainz connection
+- Alignment on Discovery page
+
+### **Version 1.1.11**
+
+#### Bug Fixes
+- Dial misalignment
