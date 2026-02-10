@@ -157,3 +157,26 @@ Upgrading and stabalizing dependencies.
 
 #### Bug Fixes
 - Dial misalignment
+
+### **Version 1.1.12**
+
+#### What's New
+- Albums in your library link with MusicBrainz
+- View external albums and artists
+- Navidrome token-based auth
+- Song Info
+- Instant Mix Option
+- Removed opt-in analytics
+- Japanese localization thanks to yamadou5832
+
+#### Bug Fixes
+- All api routes now have associated clients
+
+### **Version 1.1.13** 
+
+#### What's New
+- French localization
+
+#### Bug Fixes
+- Server specific downloaders
+- Android clicking player notification crash
