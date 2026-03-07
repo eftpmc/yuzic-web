@@ -180,3 +180,30 @@ Upgrading and stabalizing dependencies.
 #### Bug Fixes
 - Server specific downloaders
 - Android clicking player notification crash
+
+### **Version 1.1.14**
+
+#### What's New
+- react-native-nitro-player
+- Equalizer
+- Carplay & Android Auto
+- Faster downloads
+- List/Grid bottom sheet
+
+### **Version 1.1.18**
+
+#### What's New
+- Album, Playlist, and Artist page redesign
+- Track filter
+- Offline-mode
+- Better downloads
+- Better download visiblity
+- App version in settings
+- Download details in library settings
+- Android auto & carplay
+- Select navidrome library
+
+### Bug Fixes
+- Player
+- Downloading loading
+- Crashing
