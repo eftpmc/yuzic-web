@@ -207,3 +207,15 @@ Upgrading and stabalizing dependencies.
 - Player
 - Downloading loading
 - Crashing
+
+### **Version 1.1.19**
+
+### Bug Fixes
+- Large playlists
+- Downloading
+- 
+
+### **Version 1.1.20**
+
+### Bug Fixes
+- Large playlists and track player issues
