@@ -218,4 +218,5 @@ Upgrading and stabalizing dependencies.
 ### **Version 1.1.20**
 
 ### Bug Fixes
+- General issues
 - Large playlists and track player issues
