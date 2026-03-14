@@ -4,15 +4,15 @@ layout: page
 title: Terms of Use
 ---
 
-**Last updated**\
-1/7/2026
+**Last updated**  
+3/14/2026
 
 # Terms of Use
 
 These Terms of Use govern your access to and use of **Yuzic**, a
 personal music player and streaming application built with React Native.
 
-By using the App, you agree to these Terms.\
+By using the App, you agree to these Terms.  
 Information about data handling and permissions is described separately
 in the **Privacy Policy**.
 
@@ -49,12 +49,12 @@ performance purposes.
 
 Yuzic does not host, store, or supply music or media files.
 
--   You are solely responsible for any content you access, stream, or
-    play through the App
--   You are responsible for ensuring you have the legal rights to any
-    content used
--   Connections to media servers occur directly between your device and
-    the server you configure
+- You are solely responsible for any content you access, stream, or
+  play through the App
+- You are responsible for ensuring you have the legal rights to any
+  content used
+- Connections to media servers occur directly between your device and
+  the server you configure
 
 <br>
 
@@ -62,12 +62,11 @@ Yuzic does not host, store, or supply music or media files.
 
 Yuzic may offer optional integrations with third-party services.
 
--   Use of these services is subject to their respective terms and
-    policies
--   The Developer is not responsible for third-party services or content
+- Use of these services is subject to their respective terms and
+  policies
+- The Developer is not responsible for third-party services or content
 
-If optional analytics features are enabled, anonymous usage data may be
-processed by a third-party analytics provider in accordance with the
+For details on how data and permissions are handled, see the
 [**Privacy Policy**](https://eftpmc.github.io/yuzic-web/privacypolicy/).
 
 <br>
@@ -76,9 +75,9 @@ processed by a third-party analytics provider in accordance with the
 
 Yuzic may request certain device permissions to function correctly.
 
--   Microphone or "record audio" permission may be requested for audio
-    routing purposes
--   No audio is recorded, stored, transmitted, or analyzed by the App
+- Microphone or "record audio" permission may be requested for audio
+  routing purposes
+- No audio is recorded, stored, transmitted, or analyzed by the App
 
 <br>
 
@@ -97,10 +96,10 @@ and non-infringement.
 
 To the maximum extent permitted by law:
 
--   The Developer is not liable for data loss, server issues, service
-    interruptions, or content availability
--   The Developer is not liable for indirect, incidental, special, or
-    consequential damages arising from use of the App
+- The Developer is not liable for data loss, server issues, service
+  interruptions, or content availability
+- The Developer is not liable for indirect, incidental, special, or
+  consequential damages arising from use of the App
 
 Your use of the App is at your own risk.
 
