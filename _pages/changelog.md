@@ -9,6 +9,36 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **Version 1.3.0**
+This version focuses on music discovery. Using Deezer recommendations, similar songs, etc are seen throughout the app.
+
+#### What's New
+- Carplay & Android Auto
+- Deezer external song samples
+- Updated library screens and discovery sections
+- Better search with Deezer
+- Last.fm scrobbling
+- Downloading more accessible
+- Better discographies
+- Offline polish
+- External artist top tracks
+
+#### Bug Fixes
+- Crashes?
+- Performance
+
+### **Version 1.3.4**
+
+#### What's New
+- External source seperation
+- Deezer integrations toggles
+- Style and colors refactor
+- Server playcount syncs
+- Quick picks
+
+#### Bug Fixes
+- Offline mode fix
+
 # **Version 1.2.0**
 The app has been further redesigned to accommodate a more standard music player experience, and also to allow the app to grow further. Tabs now exist at the bottom. The explore screen becomes the new Home Screen and the library has a dedicated screen with downloads as well. The app has also become offline first, ensuring that it works with no connection. I moved back to react-native-track-player to get better performance and less crashes. We'll see which track player I end up using in the long run.
 
@@ -51,8 +81,6 @@ The entire library fetching system has been reworked to be cleaner, and work wit
 - Glitchy queue after dragging
 - Jellyfin duration bug
 - Confusing lidarr plugin toggle
-
-<br>
 
 ### **Version 1.1.1**
 Light mode fully complete, touchups and bug fixes.
