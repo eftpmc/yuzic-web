@@ -51,6 +51,17 @@ This version focuses on music discovery. Using Deezer recommendations, similar s
 #### Bug Fixes
 - Image caching
 
+### **Version 1.3.6**
+
+#### What's New
+- UPnp & DLNA
+- Google Cast
+- Concurrent downloads
+- Jellyfin Quick Connect
+
+#### Bug Fixes
+- Large library issues
+
 # **Version 1.2.0**
 The app has been further redesigned to accommodate a more standard music player experience, and also to allow the app to grow further. Tabs now exist at the bottom. The explore screen becomes the new Home Screen and the library has a dedicated screen with downloads as well. The app has also become offline first, ensuring that it works with no connection. I moved back to react-native-track-player to get better performance and less crashes. We'll see which track player I end up using in the long run.
 
